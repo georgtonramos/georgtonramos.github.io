@@ -1,6 +1,3 @@
 # Meu Curriculo Online
 
-## georgtonramos.github.io
-
-
-https://cv.georgton.tech
+## <https://cv.georgton.tech>
